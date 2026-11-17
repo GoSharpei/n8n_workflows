@@ -139,7 +139,7 @@
               },
               {
                 "name": "X-N8N-API-KEY",
-                "value": "n8n_api_af5f5f83a6fc38791c2f76626099e6ad08f55a316db2c371fc1830256eb0f132efb5efd1138b2415"
+                "value": "={{ $env.N8N_API_KEY }}"
               },
               {
                 "name": "browser-id",
@@ -147,7 +147,7 @@
               },
               {
                 "name": "cookie",
-                "value": "rl_page_init_referrer=RudderEncrypt%3AU2FsdGVkX1%2BpXya4ui%2Fj6ZwlSw4YKsTOgcB026KT8sc%3D; rl_page_init_referring_domain=RudderEncrypt%3AU2FsdGVkX1%2B8NpXaZBawhnkKeXUNduAzwv1CsLgshoU%3D; _fbp=fb.1.1729043729194.81873881786907228; _hjSessionUser_3582866=eyJpZCI6IjZiYzc5NWUxLTkwMTItNTE5MC05ZDBkLWNjNGYzM2Q1OWZjZSIsImNyZWF0ZWQiOjE3MjkwNDM4NzM0ODksImV4aXN0aW5nIjp0cnVlfQ==; _ga=GA1.1.394611547.1729044373; intercom-device-id-wwq4lzmr=655559ea-38e0-446c-b501-cb88b4ae4b76; n8n-auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3OTE0NDk0LWQ1NzYtNDYxOC1iMjUyLTQzNTc4NWRkZTExZSIsImhhc2giOiJaOExTcXlSZmZCIiwiYnJvd3NlcklkIjoiWkNIaWFmM1RiUDhoOW9ERWJpek1pSEFmUUUxU2x4dWI4Zm5RaERDM0hjRT0iLCJpYXQiOjE3Mjk4ODU1MTMsImV4cCI6MTczMDQ5MDMxM30.koVKnJ1KJ_jhZWh9SglnfHgakMqMH1tfSqC5c5FiS5g; intercom-session-wwq4lzmr=RVpydzh2NmZJd2huYStieC9MUnNMVGtVUmNEVG1xWGZVY0tjY0svWEhZdXlmUGxiZitrZDdOM3p1WjFwcFBQNC0tOGU0aTJ5SG1LZnNXSTBGUHdaVk1JQT09--d6142417bac046b4d323c273e6b592537256f55d; _ga_0000=GS1.1.1730115980.33.0.1730115983.0.0.514939195; _ga_29L79G9076=GS1.1.1730115980.36.0.1730115983.57.0.0; rl_anonymous_id=RudderEncrypt%3AU2FsdGVkX1%2BPPR09v%2BhX2GsKdWrwKRn%2BYDytrjkqW%2BCUVgdkHbAWwjerRom9SNj7vN5XEI%2FlG0IZmfZWMqtfdg%3D%3D; rl_user_id=RudderEncrypt%3AU2FsdGVkX19jIP9Rq3m77TXUutP8tbRHqhyQmELJaA7h%2B0dubnwIp36BaxFkJiHzyGZNkXKSQUHIBxGxabP3ZaQeFsMbi9nL1OkR88KRxCxEaHGLv88ApktUxZXa8Hzr5mbdPPdi7O9jLdB3G%2BVM4mdGikCLCtV0JGJJJghWOmI%3D; rl_trait=RudderEncrypt%3AU2FsdGVkX19EdgrgwjeNJqibGupfDTZXQ4ukej2uZav%2Bc0KtgpXr%2BAJMP%2BbJ%2B304hSnF8CLzpDTJdjTqR%2FoA7ga1wgK1DBf3FA%2Fu4LUL5wGoBIRH3La0ROJhvF%2BbSWVibcVoQOMVnlI203jr5vBk0w%3D%3D; ph_phc_4URIAm1uYfJO7j8kWSe0J8lc8IqnstRLS7Jx8NcakHo_posthog=%7B%22distinct_id%22%3A%220c0beacef8877bbf2416eb00f2b5dc96354e26dd1df5517320459b1236860f8c%2317914494-d576-4618-b252-435785dde11e%22%2C%22%24sesid%22%3A%5B1730122773504%2C%220192d357-7058-7d11-a6a3-96c881be7bc4%22%2C1730122575960%5D%2C%22%24epp%22%3Atrue%7D; rl_session=RudderEncrypt%3AU2FsdGVkX19D%2FoFwqNWfjH7MLqGGb%2B3i7Mk%2FynXGL%2BfIgEtfdWmPjtsohYea%2ByCkUE1zXkd7oW07A3%2FeOCYWozAA647bqMhFr2q6lCvByDl0W%2F55l4JIiEIJ%2FMbU16c4QyaRlqticaAE0qKY7RIV1w%3D%3D"
+                "value": ""
               },
               {
                 "name": "origin",
