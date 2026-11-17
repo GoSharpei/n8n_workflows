@@ -114,7 +114,7 @@
               },
               {
                 "name": "X-N8N-API-KEY",
-                "value": "n8n_api_af5f5f83a6fc38791c2f76626099e6ad08f55a316db2c371fc1830256eb0f132efb5efd1138b2415"
+                "value": "={{ $env.N8N_API_KEY }}"
               }
             ]
           },
